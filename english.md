@@ -30,7 +30,4 @@ Use 'teaching' or 'offering' instead.
 # "EVEN I HAD THIS PROBLEM." - MISUSE OF THE WORD 'EVEN'.
 In this sentence, the use of "Even I" is understood to suggest: "(Although I almost never have the sort of problems you have,) even I had this problem."
 
-For example, if you are much taller than your friends, you might say "Even I couldn't reach the top shelf," or if you feel that you are much smarter than them, you might say "Even I couldn't solve this homework problem."
-
-However, if you do not have an obvious advantage over the person you are speaking to, this is not correct usage. What you want to say is "I had this problem as well," "I could not reach the top shelf either," and "I also could not solve this homework."
-
+For example, if you are much taller than your friends, you might say "Even I couldn't reach the top shelf," or if you
